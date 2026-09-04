@@ -1,30 +1,70 @@
 # USA Stock Market Analysis — September 1, 2026 (Tuesday)
 
-## ⚠️ Session in progress — this is a preliminary read, not a closing report
+## Headline
 
-**At the time of writing (Tuesday evening, Taipei time / Tuesday morning, US Eastern time), the US market has only just opened** — the September 1 session runs roughly 9:30pm–4:00am Taipei time and will not close until early Wednesday morning local time. The figures below reflect **pre-market and opening-bell conditions only**. This file should be re-checked and updated with actual closing levels once the session ends — see `../260831/usa.md` for the last fully-confirmed US close (Monday, August 31).
+US indices closed lower for a second straight session as the Iran-driven oil shock deepened and Treasury yields kept climbing. **Dow Jones closed at 52,766.88 (−0.8%)**, **S&P 500 at 7,631.47 (−0.7%)**, and the **Nasdaq Composite at 26,099.77 (−1.0%)** — the Nasdaq's steeper decline reflects tech again bearing the brunt as rising yields pressure growth valuations. The session extends Monday's selloff (see `../260831/usa.md`), driven by the same weekend US strikes on Iranian targets near the Strait of Hormuz.
 
-## Pre-market / early-session conditions
+*Note on sourcing: figures above (The Motley Fool and Alain Guillot's market recap) reconcile cleanly with Monday's confirmed close; an earlier-session Yahoo Finance snapshot showed smaller declines (Dow 53,000.21, S&P 7,645.05, Nasdaq 26,131.82), which appears to reflect a midday read rather than the final close.*
 
-- **Crude oil, Treasury yields, and equity futures were all pointed toward continued pressure** from the same Iran/Strait-of-Hormuz escalation that drove Monday's session (see `../260831/usa.md`) — a Schwab market commentary piece titled "Crude, Yields Flex Muscle, Bruising Stocks Early" points to oil and yields again weighing on futures ahead of the open.
-- **Gold continued easing**: December gold futures opened at **$4,498.70/oz (+0.4% from Monday's close)** but slid to around **$4,432.20/oz by 7:56am ET** as rate-hike expectations firmed further — the CME FedWatch tool showed a **66.4% probability of a 25bp September hike**, up sharply from 39.6% a week earlier.
-- **Bitcoin and ethereum opened higher but faded**: Bitcoin opened around **$78,559 (+1.1% from Monday)** before slipping to about **$77,946 by mid-morning**; Ethereum opened near **$2,467 (+2%)** before easing to **$2,454**. The pattern mirrors gold's: a firmer open giving way as rate-hike odds firm through the morning.
-- **Context**: "the first U.S. attacks against Iran since July this weekend and recent threats of additional strikes by President Trump have sent oil prices rising along with rate hike expectations" — the same macro thread running through Monday's session (see `../260831/usa.md`) remains the dominant story as September opens.
+## Oil and yields drove the session
 
-## What to watch as the session develops
+- **Crude oil surged again**: Brent crude jumped **+4.6% to $94.65/barrel**, WTI climbed **+5.2% to $90.22/barrel** — its first close above $90 in over a month — as the Iran conflict showed no sign of cooling. Reports of oil tankers (one Saudi, one South Korean-owned) struck by projectiles near the Strait of Hormuz added a fresh escalation on top of the weekend strikes.
+- **Treasury yields extended their climb**: the **10-year yield reached 4.79%**, its highest since January 2025, and the **30-year yield pushed to roughly 5.27%**, near multi-decade highs. The **2-year yield stood at 4.39%**. Higher yields raise borrowing costs economy-wide while making bonds more attractive relative to expensive growth stocks — the direct mechanism behind tech's underperformance.
+- **Volatility rose**: the **VIX climbed to 15.87 (+6.36%)**, reflecting the market's growing unease.
 
-1. **Actual closing levels for Dow/S&P/Nasdaq** — not yet available; check back once the US session closes (~4am Taipei / 4pm ET Tuesday).
-2. **Whether the 10-year Treasury yield holds above 4.75%** (Monday's post-Jackson-Hole, post-Iran-strike level) or eases as the initial shock is digested.
-3. **Confirmation (or reversal) of the September rate-hike repricing** — the CME FedWatch-implied probability has moved sharply in a matter of days and is worth tracking for stability.
+## Sector and stock-level detail
+
+- **Technology stocks led the losses** — Palo Alto Networks fell **−5.24%** and CrowdStrike Holdings dropped **−6.90%**, weighing on the broader software sector.
+- **Defensive positioning outperformed**: the Invesco S&P 500 Low Volatility ETF fell just **−0.2%**, versus a roughly **−2.1%** drop for a high-beta ETF proxy — a clean rotation away from risk.
+- **Moderna bucked the trend, surging +10%** on positive cancer-vaccine developments — one of the few bright spots in an otherwise risk-off session.
+- Goldman Sachs traders flagged **"increased investor nervousness and cautious risk allocations"** spreading across global markets as Middle East tensions escalate.
+
+## US Treasury yields
+
+| Maturity | Yield | Note |
+|---|---|---|
+| 2-Year | 4.39% | Front-end anchored below the long end — curve remains upward-sloping |
+| 10-Year | **4.79%** | Highest since January 2025, up further from Monday's >4.75% |
+| 30-Year | ~5.27% | Near multi-decade highs |
+
+## US corporate credit spreads
+
+| Grade | OAS | Note |
+|---|---|---|
+| Investment Grade (ICE BofA US Corporate) | **0.80%** | Most recent confirmed reading (Aug 31) — spreads remain historically tight despite the equity selloff |
+| High Yield (ICE BofA US HY) | **2.63%** | Most recent confirmed reading (Aug 31) — no material widening yet; credit market has not (yet) echoed equities' risk-off tone |
+
+*Note: OAS data from FRED/ICE BofA carries a one-business-day publication lag, so the figures above are the most recent confirmed readings at writing time (Monday, Aug 31) rather than same-day Sept 1 closes.*
+
+## US equity ETFs
+
+| Fund | Sept 1 move | Note |
+|---|---|---|
+| VOO (Vanguard S&P 500) | **−0.65%** | Tracked broad-market outflow pressure |
+| QQQ (Invesco Nasdaq-100) | **−1.27%** | Underperformed the broader market — consistent with tech's sector-level weakness |
+
+*Note: same-day dollar-flow data (the format used in prior daily files, e.g. `../260827/usa.md`) was not available from sources checked at writing time; the figures above are price moves, not fund flows, and should be read as a proxy for positioning rather than confirmed inflow/outflow data.*
+
+## What to watch next
+
+1. **Whether the 10-year yield's push to 4.79% (highest since Jan 2025) continues or stabilizes** — the key swing factor for growth-stock valuations.
+2. **Whether credit spreads (still historically tight per the latest IG/HY OAS readings) start to widen** if the equity selloff persists — a genuine risk-off signal would show up there first.
+3. **Further escalation or de-escalation in the Strait of Hormuz** — the tanker strikes reported Monday night raise the stakes beyond the weekend's initial military action.
 
 ## Bottom line
 
-Too early in the session to call — early indications point to a continuation of Monday's oil/yield-driven pressure on risk assets (gold and crypto both fading from firmer opens; equity futures pressured), but the actual US equity close for September 1 is not yet known at writing time. **This file should be revisited once the session closes** for a proper same-day analysis; until then, treat this as a pre-market snapshot only.
+A second consecutive down day for US equities, with the same Iran/oil/yield thread from Monday deepening rather than resolving: oil extended its surge (WTI above $90 for the first time in weeks), the 10-year Treasury yield hit a fresh 19-month high at 4.79%, and tech bore the brunt of the resulting valuation pressure (Nasdaq −1.0% vs. Dow −0.8%). Credit spreads have not yet widened meaningfully, which is worth watching — if that changes, it would mark a genuine escalation from an equity-specific selloff to a broader risk-off move.
 
-*This analysis is for informational purposes only and is not financial advice. Figures reflect pre-market/early-session conditions as of Tuesday morning US Eastern time (Tuesday night Taipei time) and will be superseded by the actual session close. Do your own research or consult a licensed financial advisor before making investment decisions.*
+*This analysis is for informational purposes only and is not financial advice. Prices and index levels reflect September 1, 2026 (US Eastern time) closing data as reported and can differ across sources. Do your own research or consult a licensed financial advisor before making investment decisions.*
 
 ## Reference sources
 
+- [Stock Market Today, Sept. 1: Stocks Slide and Oil Surges Amid U.S.-Iran Tension — The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-stocks-slide-and-oil-surges-amid-u-s-iran-tension/)
+- [Stock Market Recap — September 1, 2026 — Alain Guillot](https://www.alainguillot.com/stock-market-recap-september-1-2026/)
+- [Stock market today: Dow, S&P 500, Nasdaq drop as oil tops $95 — Yahoo Finance](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html)
+- [Treasury Rates Today: September 1, 2026 — Forbes Advisor](https://www.forbes.com/advisor/investing/treasury-rates/)
+- [ICE BofA US High Yield Index Option-Adjusted Spread — FRED](https://fred.stlouisfed.org/series/BAMLH0A0HYM2)
+- [ICE BofA US Corporate Index Option-Adjusted Spread — FRED](https://fred.stlouisfed.org/series/BAMLC0A0CM)
 - [Gold prices today, Tuesday, September 1, 2026 — Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-1-2026-gold-moves-lower-as-rate-hike-expectations-grow-120810063.html)
 - [Bitcoin and ethereum prices today, Tuesday, September 1, 2026 — Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-1-2026-crypto-prices-falling-as-inflation-concerns-persist-123554224.html)
 - [Crude, Yields Flex Muscle, Bruising Stocks Early — Charles Schwab](https://www.schwab.com/learn/story/stock-market-update-open)

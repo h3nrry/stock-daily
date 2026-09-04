@@ -1,0 +1,46 @@
+# Daily Market Briefing — September 3, 2026 (Thursday)
+
+Global snapshot: Thursday marked a genuine, if uneven, turn away from this week's Iran-driven oil-and-yield shock. The catalyst was a dovish Fed voice — **Governor Christopher Waller** highlighted a steady disinflation trend and signaled support for holding rates steady, pulling September rate-hike odds down from roughly 63% to about 50% and knocking the **US 10-year Treasury yield back to ~4.74–4.75%** from Wednesday's 4.79%. That yield relief rippled everywhere: **US indices posted their best session in a month** (Dow +1.18%, S&P 500 +1.06%, Nasdaq +1.51%), **Europe snapped a three-session losing streak** (FTSE +0.74%, DAX +0.61%, STOXX 600 +0.49%, CAC 40 a smaller +0.07% given its own separate French political overhang), and **Southeast Asia rallied broadly** (Singapore's STI touched a fresh intraday record high of 5,807.16, Indonesia's IHSG +1.09%, Malaysia's FBM KLCI +0.37% on a central-bank rate hold, Thailand's SET +0.12%). Asia-Pacific's own session, though, was a genuine two-act story: markets opened firmer tracking Wall Street, but **Japan and Korea both suffered sharp, largely unexplained intraday reversals around midday** — Korea's KOSPI swung nearly 4 percentage points from a +1.83% high to a −1.88% low before recovering to close +0.26%, while Japan's Nikkei gave back an early ¥400 bounce to close a mild −0.17% (its fourth straight down session, but far calmer than Wednesday's rout). That regional whipsaw dragged **Taiwan's TAIEX down −0.67%**, compounded by a genuine sector-specific selloff in IC-substrate and memory names on a supply-side "repricing" story (Nan Ya PCB hit limit-down). **Hong Kong's Hang Seng fell a broader −0.39%**, a steeper decline than Wednesday's near-flat close, even as southbound Stock Connect flows stayed net positive (+HK$3.4B). Oil, having spiked intraday toward $99/barrel on fresh Iran strikes, eased back to settle near $96.79 (+1.2%) after Trump signaled the campaign "wouldn't take too long"; gold jumped +2.06% to $4,477.66 on the same yield relief lifting equities; and **bitcoin rallied a sharp +5.07% to $81,272**, its best day in weeks.
+
+## Index comparison
+
+| Region | Index | Level | 1-Day | 5-Day (~1 week) | 20-Day (~1 month) |
+|---|---|---|---|---|---|
+| United States | Dow Jones | 53,686.11 | **+1.18%** | +0.22% | −0.37% |
+| United States | S&P 500 | 7,747.71 | +1.06% | +0.22% | +0.49% |
+| United States | Nasdaq Composite | 26,612.37 | **+1.51%** | +0.27% | +1.00% |
+| Taiwan | TAIEX | 45,857.66 | −0.67% | −0.26% | **+3.29%** |
+| Korea | KOSPI | 6,579.48 | +0.26%* | **−4.82%** | **+4.50%** |
+| Hong Kong | Hang Seng | 25,213.31 | −0.39% | −1.38% | −1.24% |
+| Asia — Japan | Nikkei 225 | 64,214.48 | −0.17% | **−2.90%** | −2.24% |
+| Asia — Singapore | STI | 5,747.71 | +0.06%** | +1.12% | +1.93% |
+| Asia — Indonesia | IHSG/JCI | 6,667.89 | **+1.09%** | +2.12%*** | +4.99%*** |
+| Asia — Malaysia | FBM KLCI | 1,715.13 | +0.37% | n/a**** | n/a**** |
+| Asia — Thailand | SET | 1,576.92 | +0.12% | −1.49% | −2.34% |
+| England | FTSE 100 | 10,835.89 | **+0.74%** | +0.40% | −0.29% |
+| Europe — Germany | DAX | 25,997.78 | +0.61% | −1.40% | −0.55% |
+| Europe — France | CAC 40 | 8,286.40 | +0.07% | −0.40% | **−4.75%** |
+| Europe — pan-European | STOXX 600 | 649.10 | +0.49% | −0.42% | −1.38% |
+
+\* KOSPI's closing +0.26% masks a nearly 4-percentage-point intraday swing (high +1.83%, low −1.88%) — see `korea.md`.
+\*\* STI's flat closing figure masks an intraday jump to a fresh record high of 5,807.16 (+1% intraday) that faded by the close — see `southeast_asia.md`.
+\*\*\* IHSG's 5-day/20-day figures use Investing.com's own series (which differs marginally, ~0.1%, from the locally-reported same-day close used for the 1-day figure); see `southeast_asia.md`.
+\*\*\*\* Insufficient confirmed historical closes among sources checked at writing time to compute a reliable 5-day/20-day figure for Malaysia; see `southeast_asia.md`.
+
+**Reading the table:** today's clearest story is a genuine, if partial, unwind of the week's Iran/oil/yield shock — every US and European index gained, and three of four Southeast Asian markets rallied more than Wednesday's tone would have suggested. Asia-Pacific's own developed markets told a messier story: Taiwan, Japan, and (intraday) Korea all still finished in the red or barely positive, dragged by a genuine midday whipsaw that hit Japan and Korea specifically hard before both recovered into their closes. The clean divide from Wednesday — "Asia sells off, US/Europe hold up" — gave way today to something closer to "everyone recovers, but Asia's developed markets recover less cleanly and with more volatility along the way."
+
+## Where the money is flowing
+
+- **United States:** all three major indices posted their best session in a month (Dow +1.18%, S&P 500 +1.06%, Nasdaq +1.51%) after Fed Governor Waller's dovish disinflation comments pulled September rate-hike odds from ~63% to ~50%, sending the 10-year Treasury yield back to ~4.74–4.75%. Nvidia gained on its $12.9–13B Hugging Face acquisition; Snowflake soared +20%+ on blowout earnings; Broadcom fell −3.07% despite beating estimates, on cautious Q4 guidance — AI-linked names are now being judged on guidance trajectory, not just current-quarter results. Credit spreads held at historically tight levels (IG 0.81%, HY 2.66%, both per FRED's Sept 2 reading, the most recent posted). See `usa.md`.
+- **Taiwan:** a two-layered session — an opening tracking Wall Street's strength, then a midday drag from Japan's and Korea's own reversals, compounded by a Taiwan-specific IC-substrate/memory selloff (Nan Ya PCB hit limit-down) on a supply-side "repricing" story tied to Nitto Denko's 2027–2028 capacity-expansion plans. TAIEX fell −0.67% on NT$63.71B of net institutional selling — roughly half Wednesday's NT$115.03B outflow, consistent with a more contained, sector-specific move. See `taiwan.md`.
+- **Korea:** the region's most volatile session by far — KOSPI swung nearly 4 percentage points intraday (from +1.83% to −1.88%) on institutional and pension-fund selling that local commentary could not tie to any specific catalyst, before Samsung Electronics/SK Hynix's combined ₩1.61 trillion daily buyback pace pulled the index back to a +0.26% close. Retail investors were net sellers today, a reversal from their usual buffering role. See `korea.md`.
+- **Hong Kong:** a broader decline than Wednesday's bank-propped near-flat session — Hang Seng −0.39%, Hang Seng Tech −1.08% — though southbound Stock Connect flows stayed net positive (+HK$3.4B), suggesting mainland capital kept buying even as the headline index fell. Ping An (+2.71%) and Hong Kong property names (Cheung Kong Properties, Henderson Land) were bright spots against a mixed blue-chip tape. See `hongkong.md`.
+- **Japan:** a much calmer fourth straight down session (−0.17%) than Wednesday's sharp rout — an early bounce on US strength and oversold conditions simply ran out of buying conviction by the close, per local commentary, while the TOPIX held its 25-day moving average, a broader signal of underlying support than the Nikkei's own headline number suggests. Semiconductor names remained notably unstable. See `japan.md`.
+- **Southeast Asia:** the region's best day this week — Singapore's STI touched a fresh intraday record high (5,807.16) on bank and property strength before fading to a flat close; Indonesia's IHSG rallied a clean +1.09% led by transportation and industrials; Malaysia's FBM KLCI extended its gains (+0.37%) after Bank Negara held its policy rate at 2.75%; Thailand's SET posted a modest +0.12% rebound. See `southeast_asia.md`.
+- **Europe:** snapped a three-session losing streak as the same US yield relief that lifted American equities rippled across the Atlantic — FTSE +0.74%, DAX +0.61%, STOXX 600 +0.49%, with France's CAC 40 lagging at +0.07% given its own separate September 8 confidence-vote overhang (still the region's steepest 20-day decliner at −4.75%). Soitec (+10% on a raised 2027 revenue outlook) and Deutsche Telekom (+1.7% on an Elliott stake) led stock-level gainers; ECB rate-hike expectations firmed further, now pricing a hike to 2.5% next week plus two more 25bp increases by mid-2027. See `uk_europe.md`.
+- **Global cross-asset:** **oil eased from an intraday spike toward $99/barrel back to a Brent settlement near $96.79 (+1.2%)** and **WTI near $91.40 (+0.4%)**, after Trump signaled the Iran campaign "wouldn't take too long" — still elevated, but no longer the day's dominant driver. **Gold jumped +2.06% to $4,477.66 spot** on the same Treasury-yield pullback lifting equities — a genuinely unusual pairing of a strong risk-on equity rally with a strong gold rally on the same catalyst (falling real yields). **Bitcoin surged +5.07% to $81,272**, its best single-day move in weeks, tracking the broader easing-yields, risk-on tone across every asset class covered here.
+
+*This analysis is for informational purposes only and is not financial advice. Do your own research or consult a licensed financial advisor before making investment decisions.*
+
+---
+© 2026 Henrry Andrian‍​‌​​‌​​​​‌‌​​‌​‌​‌‌​‌‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌‌‌​​‌​‌​​​​​‌​‌‌​‌‌‌​​‌‌​​‌​​​‌‌‌​​‌​​‌‌​‌​​‌​‌‌​​​​‌​‌‌​‌‌‌​​​‌‌​​‌​​​‌‌​​​​​​‌‌​​‌​​​‌‌​‌‌​‍. All rights reserved.
