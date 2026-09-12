@@ -1,37 +1,34 @@
-# UK & Europe Stock Market Analysis — September 11, 2026 (Friday) — PRE-MARKET, NOT YET OPEN
+# UK & Europe Stock Market Analysis — September 11, 2026 (Friday)
 
-> **European markets (London/Frankfurt/Paris) had not yet opened at the time this was researched** (opens ~3–4pm Taipei time depending on exchange; closes ~11:30pm Taipei time). This file is pre-market context only — a follow-up pass is needed after tonight's close (see `README.md`'s "Follow-up needed" section) to replace this with confirmed closing data.
+## Headline
 
-## Last confirmed close (for reference)
+European markets closed higher Friday as oil prices eased from their overnight Strait-of-Hormuz-driven spike and a strong UK GDP report offset a hotter-than-expected US core CPI reading. **DAX 40 closed at 25,568.56, up 0.82%**, **CAC 40 closed at 8,179.77, up 0.78%** (a rare session this month where the CAC 40's reported move actually reconciles cleanly against this project's own confirmed prior close), the pan-European **STOXX 600 closed near 638.6–639.1 (up roughly 0.4–0.5% as reported)**, and **FTSE 100 closed at 10,650.44** — though, as detailed in the reconciliation note below, sourcing on the FTSE's precise 1-day move continues to diverge sharply across outlets. Despite Friday's gains, most indices still finished the week lower: the FTSE ended the week around 1.7% lower and the DAX around 1.8% lower, per TradingEconomics.
 
-Thursday, September 10, 2026 (see `../260910/uk_europe.md` for the full deep dive):
+## What drove the session
 
-| Index | Sept 10 Close | 1-Day |
-|---|---|---|
-| FTSE 100 (England) | ~10,634.65* | −0.60%* |
-| DAX 40 (Germany) | 25,361.15 | −0.84% |
-| CAC 40 (France) | ~8,117.05 | −0.49% |
-| STOXX 600 (pan-European) | 637.73 | −0.42%** |
+- **Oil eased significantly from its overnight peak**: after Brent crude had spiked above **$109–110/barrel intraday** on the ongoing US-Iran Strait of Hormuz standoff (a fresh escalation high — see `hongkong.md`, `usa.md`), it retreated through the European session to close around **$104–105/barrel (down roughly 2.8–3.6% on the day)**, providing genuine relief to European equities after a week dominated by the oil-driven inflation narrative that had prompted the ECB's rate hike just a day earlier (see `../260910/uk_europe.md`).
+- **UK GDP surprised to the upside**: July GDP expanded **0.4% month-on-month, versus a flat consensus forecast** — a clear positive surprise that helped the FTSE recover from a seven-week low. **UK banks led gains**: **HSBC rose 1.4%, Barclays 1.7% (some sources cite up to 2.0%), and Lloyds Banking Group 1.3%**, while **Rolls-Royce added 1.7%**; **BAE Systems was a notable decliner, down more than 1%**.
+- **The US August CPI report landed mid-session (8:30am ET / 8:30pm Taipei / ~1:30pm London)**: headline inflation came in **+0.4% m/m and +3.4% y/y, in line with forecasts**, but **core CPI rose a hotter-than-expected +0.3% m/m** (versus a 0.2% forecast), pushing the annual core rate to 2.4%. The hotter core reading pushed odds of a Fed rate hike at next week's September 15–16 FOMC meeting to roughly **87–90% per CME FedWatch**, up sharply from about 70% the day before — yet European (and, as it turned out, US) equities treated this as largely priced-in rather than a fresh shock, with one German-language market wrap describing the report as delivering "no impulses" to trading. This is the same US CPI story that also shaped every Asian and US market file this week (see `usa.md`, `hongkong.md`, `southeast_asia.md`).
+- **France's CAC 40 was lifted by two notable single-stock stories**: **Safran gained 2.55%** on a new defense contract for the Thundart rocket-system program, and **Alstom rose 2.42%** after securing more than **€1.2 billion in UK rail contracts**, including a €930 million order for 29 battery-electric trains with deliveries beginning in 2032.
+- **Germany's DAX remained clearly above its 100-day moving average** despite the broader weekly weakness, with German 10-year Bund yields sitting near multi-decade highs alongside the global rise in sovereign yields (see `usa.md`).
 
-*See `../260910/uk_europe.md` for the source-reconciliation footnotes on FTSE and STOXX 600's precise closing levels.*
+## Index comparison — 1-day, 5-day, 20-day
 
-## What's expected at today's open
+| Index | Sept 11 Close | 1-Day | 5-Day (~1 week) | 20-Day (~1 month) |
+|---|---|---|---|---|
+| FTSE 100 (England) | 10,650.44 | **+0.15%*** | −1.64% | −0.93% |
+| DAX 40 (Germany) | 25,568.56 | **+0.82%** | −1.84% | −3.30% |
+| CAC 40 (France) | 8,179.77 | **+0.78%** | −0.98% | −5.29% |
+| STOXX 600 (pan-European) | ~638.6–639.1 | **+0.14–0.22%*** | −1.78% | −2.92% |
 
-- **Asia closed sharply lower today** ahead of Europe's open: TAIEX −1.61%, KOSPI −1.76%, Nikkei −1.93%, and Hong Kong's Hang Seng was down roughly 1% intraday at writing time (see `taiwan.md`, `korea.md`, `japan.md`, `hongkong.md`) — all tracking the same global catalyst below, a genuinely negative overnight/regional signal heading into Europe's session.
-- **Oil extended its climb further**: Brent crude pushed above **$109/barrel intraday** — a fresh high in the ongoing US-Iran Strait of Hormuz escalation — before easing somewhat to around **$105.50** on the latest reading, while WTI traded near **$103**. This is the same story that drove the ECB's rate hike Thursday (see `../260910/uk_europe.md`) and continues to be Europe's dominant cross-market risk.
-- **US Treasury yields remained elevated, with the 10-year approaching 5%** — its highest in nearly three years — continuing to pressure growth/tech valuations globally and keeping bond yields an attractive alternative to equities.
-- **US equity futures pointed modestly higher pre-market** (Dow futures +0.24% to 52,220 as of writing), a tentatively firmer signal for Wall Street's own open tonight, though this could shift sharply around the CPI release (see below).
-- **Tonight's US CPI report (8:30am ET / 8:30pm Taipei / ~1:30pm London time)** is the single biggest scheduled catalyst for both the US and European sessions: consensus expects **headline +0.4% m/m / +3.4% y/y and core +0.4% m/m / +2.4% y/y**, both a re-acceleration from July's +0.1% m/m / 3.4% y/y headline and +0.2% m/m / 2.5% y/y core. A hot print would reinforce Fed-hike odds (already near 70% for next week's September 15–16 FOMC meeting) and likely extend the same risk-off tone seen across Asia today into Europe's close.
-- No major UK/Eurozone-specific data releases or central-bank events were identified for today specifically (the ECB's own rate decision landed Thursday this week — see `../260910/uk_europe.md`); today's session is expected to trade primarily off the oil/yields/CPI narrative rather than a domestic European catalyst.
+*The FTSE 100 and STOXX 600's 1-day moves continue this project's established sourcing-divergence pattern (see [[project_stock_sources]] Notes section, first documented for the CAC 40): same-day news wraps reported FTSE gains ranging from +0.34% (TradingEconomics) to +0.51% (247wallst) to +0.7% (Tickmill), and STOXX 600 gains of +0.4% (Yahoo Finance) to +0.49% (Investing.com) — but these are computed against each vendor's own, mutually inconsistent prior-day closing figure (e.g., Investing.com's own Thursday FTSE close of 10,608.92 vs. this project's own confirmed ~10,634.65* Thursday figure). Recomputing the widely-agreed Friday closing levels (FTSE 10,650.44 per Investing.com; STOXX 600 ~638.6–639.1) directly against this project's own confirmed Thursday closes yields smaller but still-positive moves of roughly +0.15% (FTSE) and +0.14–0.22% (STOXX 600) — both figures are shown here rather than silently picking one, consistent with this project's established reconciliation-divergence handling. CAC 40 and DAX, by contrast, reconciled cleanly this session with no divergence issue.
+5-day baseline: September 4, 2026 closes (FTSE 10,828.14; DAX 26,048.38; CAC 8,261.11; STOXX 650.20). 20-day baseline: August 14, 2026 closes (FTSE 10,750.11; DAX 26,440.31; CAC 8,636.80; STOXX 657.86). Both sourced from Investing.com's historical-data series.
 
-## What to watch when this file is completed
+## Bottom line
 
-- The actual FTSE 100, DAX 40, CAC 40, and STOXX 600 closes, and whether Europe extends or reverses the Asia-wide risk-off tone seen earlier today
-- How European markets react to the US CPI release, given the ~1:30pm London/8:30pm Taipei timing falls mid-session for Europe
-- Any fresh Strait of Hormuz/Iran developments during the European trading day
-- Confirmation of the CAC 40's prior-close reconciliation issue flagged in recent sessions (see [[project_stock_sources]] Notes section)
+A genuinely relief-driven session for European equities — DAX (+0.82%) and CAC 40 (+0.78%) both closed solidly higher as oil retreated from its overnight Strait-of-Hormuz spike above $109–110/barrel back toward $104–105, and the FTSE recovered from a seven-week low on a surprisingly strong UK GDP print that lifted the banking sector broadly (HSBC, Barclays, Lloyds all up 1.3–2.0%). The US CPI report — hot on core, in line on headline — pushed Fed-hike odds for next week's FOMC to roughly 87–90% but was largely absorbed without derailing the session, a genuine contrast to how sharply markets reacted to the prior week's Iran/oil escalation. France's Safran and Alstom both delivered standout single-stock gains on fresh contract wins. Despite Friday's broad-based gains, most indices still closed the week lower, underscoring how much ground was lost earlier in the week to the ECB's rate hike and the oil/yields shock that dominated Wednesday and Thursday's sessions.
 
-*This analysis is for informational purposes only and is not financial advice. It is explicitly a PRE-MARKET snapshot — European markets have not opened yet — and figures cited are the last confirmed prior-day closes plus overnight/pre-market signals only, not today's results. Do your own research or consult a licensed financial advisor before making investment decisions.*
+*This analysis is for informational purposes only and is not financial advice. Prices and index levels reflect September 11, 2026 closing data as reported and can differ across sources — see the reconciliation note above for the FTSE 100 and STOXX 600 specifically. Do your own research or consult a licensed financial advisor before making investment decisions.*
 
 ## Reference sources
 
@@ -45,6 +42,15 @@ Thursday, September 10, 2026 (see `../260910/uk_europe.md` for the full deep div
 - [DAX (Germany 30) Historical Data — Investing.com](https://www.investing.com/indices/germany-30-historical-data)
 - [CAC 40 (France 40) Historical Data — Investing.com](https://www.investing.com/indices/france-40-historical-data)
 - [STOXX 600 Historical Data — Investing.com](https://www.investing.com/indices/stoxx-600-historical-data)
+- [European Stocks - 11-09-26 — Armenpress](https://armenpress.am/en/article/1260270)
+- [Aktien Frankfurt Schluss: Dax stabilisiert sich - Auf Wochensicht im Minus — ARIVA.DE](https://www.ariva.de/dax-index/news/aktien-frankfurt-schluss-dax-stabilisiert-sich-auf-12134049)
+- [Le CAC 40 clôture en progression de 0,8%, à 8.179,77 points — Zonebourse](https://www.zonebourse.com/actualite-bourse/le-cac-40-cloture-en-progression-de-0-8-a-8-179-77-points-ce785bdfdf8dff20)
+- [Le CAC 40 en hausse, Safran et Alstom prennent de l'altitude : le journal de la bourse du 11 septembre — MoneyVox](https://www.moneyvox.fr/bourse/actualites/110355/le-cac-40-en-hausse-safran-et-alstom-prennent-de-altitude-le-journal-de-la-bourse-du-11-septembre)
+- [FTSE 100 closes up 0.5%, trailing DAX and CAC 40 gains — 24/7 Wall St.](https://247wallst.com/cards/the-dax-and-cac-40-both-added-about-0-8-while-london-manage-ftse-market-bell-01m28hmpczfvp018pfskvzq77f)
+- [UK Stock Market (FTSE 100) — Trading Economics](https://tradingeconomics.com/united-kingdom/stock-market)
+- [FTSE Finish Line September 11 2026: FTSE Rebounds as UK GDP Surprises to Upside — Tickmill](https://www.tickmill.com/blog/ftse-finish-line-september-11-2026-ftse-rebounds-as-uk-gdp-surprises-to-upside)
+- [European stocks rise but head for sharp weekly declines — Yahoo Finance](https://finance.yahoo.com/markets/world-indices/articles/european-stocks-rise-head-sharp-082830892.html)
+
 
 ---
 © 2026 Henrry Andrian‍​‌​​‌​​​​‌‌​​‌​‌​‌‌​‌‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌‌‌​​‌​‌​​​​​‌​‌‌​‌‌‌​​‌‌​​‌​​​‌‌‌​​‌​​‌‌​‌​​‌​‌‌​​​​‌​‌‌​‌‌‌​​​‌‌​​‌​​​‌‌​​​​​​‌‌​​‌​​​‌‌​‌‌​‍. All rights reserved.
