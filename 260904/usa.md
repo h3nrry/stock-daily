@@ -1,31 +1,52 @@
 # USA Stock Market Analysis — September 4, 2026 (Friday)
 
-## ⚠️ Session in progress — this is a preliminary read, not a closing report
+## Headline
 
-Friday's US session runs roughly 9:30pm–4:00am Taipei time and is **still open** at the time this file was compiled — it will not close for several more hours. Nothing below is a final number; all figures reflect pre-market and early-session conditions only, gathered from wire coverage published in the first ~2–3 hours of trading. **For the last fully-confirmed US close, see `../260903/usa.md`** (Thursday, September 3: Dow 53,686.11 +1.18%, S&P 500 7,747.71 +1.06%, Nasdaq 26,612.37 +1.51%). This file needs a follow-up completion pass once Friday's session has actually closed — see the note in `../260904/README.md`.
+Wall Street closed out the week on a down note as a blowout August jobs report reignited rate-hike anxiety just one day after Fed Governor Waller's dovish disinflation comments had powered Thursday's best session in a month. The **Dow Jones fell 271.85 points (−0.51%) to 53,414.25**, the **S&P 500 fell 29.11 points (−0.38%) to 7,718.60**, and the **Nasdaq Composite fell 77.11 points (−0.29%) to 26,506.99** — a mild, broad-based pullback rather than a rout, with the small-cap **Russell 2000 actually gaining 7.38 points (+0.25%) to 2,975.65**, bucking the large-cap decline.
 
-## What's known so far
+## What drove the market
 
-- **August's nonfarm payrolls report landed well above expectations, complicating Thursday's dovish narrative**: the US economy added **162,000 jobs in August**, sharply beating the consensus estimate of roughly **55,000–56,000**, while the unemployment rate held steady at **4.1%**. Economist Bill Adams (Fifth Third Commercial Bank) characterized the report as "much better than expected, focusing the Fed squarely on controlling inflation" heading into the September FOMC meeting.
-- **The report directly reversed Thursday's rate-cut-odds move**: Thursday's session (see `../260903/usa.md`) was built on Fed Governor Waller's dovish disinflation comments pulling September rate-hike odds from ~63% down to ~50%; Friday's strong jobs data pushed those odds back up to as high as **59%**, per Capital.com's Kyle Rodda, even as Waller's own dovish messaging continued to provide some offsetting support.
-- **Early trading was mixed rather than sharply directional**, reflecting the tension between a strong labor market (hawkish for Fed policy) and continued dovish Fed commentary (supportive for equities). Early-session levels (roughly the first half-hour to hour of trading) showed: **S&P 500 around 7,741.86 (−0.08%)**, **Dow around 53,509.14 (−0.33%)**, **Nasdaq around 26,615.08 (+0.12%)**, and **Russell 2000 around 2,954.93 (−0.45%)** — essentially flat-to-slightly-lower across large caps, with small caps underperforming. Later wire commentary (closer to Europe's own market close, roughly 11:30am ET) described a somewhat sharper pullback, with the Dow off as much as −0.7% and the S&P off −0.5% — a reminder that Friday's session remains genuinely fluid and these early readings should not be read as anything close to final.
-- **Treasury yields rose across the curve on the stronger data, then moderated somewhat as the morning progressed**: the **2-year yield rose 5.3 basis points to 4.39%** (after initially climbing as much as 8bp) — the maturity most sensitive to near-term Fed expectations; the **10-year yield rose 1.8 basis points to 4.782%**; the **30-year yield rose 0.5 basis point to 5.2475%**. The relatively modest 10-year and 30-year moves, despite the strong payrolls beat, suggest markets are not (yet) pricing a dramatically more hawkish Fed path off this single data point.
-- **Oil pulled back from the week's elevated levels**: **Brent crude traded near $96.90/barrel, down roughly −2.49%** from Thursday's level (~$99.38), and **WTI traded near $89.24, down roughly −2.26%** — both benchmarks easing back further from the week's Iran-driven spike toward $99, continuing Thursday's own partial retracement (see `../260903/usa.md`).
-- **Gold pulled back from Thursday's sharp rally**: spot gold traded around **$4,468.60, down roughly −1.57%** from Thursday's $4,477.66 close — a reversal of Thursday's yield-relief-driven surge, consistent with Friday's modest early-session rise in Treasury yields.
-- **Bitcoin held roughly steady near $81,200–81,300**, essentially flat from Thursday's sharp +5.07% close near $81,272, and on track for a **+1.3% weekly gain** — crypto markets reportedly saw their largest ETF inflow in nine months following Thursday's dovish Fed commentary, a tailwind that has persisted into Friday's early trading even as the jobs data complicated the broader rate-cut narrative. Ethereum traded near $2,522, roughly flat on the day.
+- **August nonfarm payrolls landed far above expectations**: the economy added **162,000 jobs**, sharply beating the consensus estimate of roughly **55,000**, while the unemployment rate held steady at **4.1%**. Fifth Third Commercial Bank chief US economist Bill Adams called the report "much better than expected, focusing the Fed squarely on controlling inflation" ahead of the September FOMC meeting.
+- **The report reversed Thursday's rate-cut-odds move**: Thursday's rally (see `../260903/usa.md`) was built on Waller signaling he'd support holding rates steady if disinflation continues, pulling September rate-hike odds from ~63% down toward ~50%. Friday's strong jobs data pushed those odds back up — Capital.com's Kyle Rodda noted pricing for a rate hike this month returned to "roughly 50%" even with Waller's dovish tilt still in the mix, while other wire coverage put the swing as high as 59%.
+- **Sector performance was narrow and defensive-leaning at the S&P level, but masked a sharp semiconductor-specific rally**: only three of the eleven S&P sectors advanced — **Technology (+0.44%), Industrials (+0.22%), and Utilities (+0.12%)** — while growth-sensitive and rate-sensitive areas broadly underperformed as investors recalibrated Fed expectations. Within tech, chips diverged sharply from the broader index: the **Philadelphia Semiconductor Index (SOX) surged +3.37% to 11,735.3**, and **TSMC's ADR rose +2.85%**, a rebound strong enough to drive Taiwan's own after-hours index futures up 473 points (+1.0%) to 47,182 in Friday-night trading — a bullish setup heading into Monday's TAIEX session (Taiwan markets trade as normal on Sept 7; see the outlook in `../260907/README.md`). The **VIX volatility index rose roughly +1.47%** into the close.
+- **Lululemon (LULU) was the day's standout single-stock story, plummeting 17.4% to close at $100.61** after slashing its full-year guidance alongside a Q2 report showing net revenue down 4% year-over-year to $2.4 billion and Q3 revenue guidance implying a further ~10% decline. The stock is now down more than 51% year-to-date, with JPMorgan and other analysts cutting price targets on concerns about how long a turnaround will take under incoming CEO Heidi O'Neill (starting this month after seven months of interim leadership). Athletic-apparel peers sent mixed signals: **Nike fell 0.95% to $38.40** while **Deckers Outdoor gained 1.55% to $85.81**.
 
-## What to watch as the session continues
+## Treasury yields
 
-1. **Whether equities stabilize or extend Friday's early pullback** as markets fully digest the jobs-data/Fed-commentary tension — the gap between the earliest readings (S&P roughly flat) and later-morning commentary (S&P down ~0.5%) suggests this is very much still being resolved in real time.
-2. **Any further Fed commentary reacting to the jobs report**, particularly from Fed Chair Warsh (whose hawkish stance has been in direct tension with Governor Waller's dovish comments all week — see `../260903/usa.md`) or other FOMC members, ahead of the September meeting.
-3. **Whether Treasury yields extend Friday's rise or fade back toward Thursday's lower levels** — the modest 10-year/30-year moves so far suggest markets are treating the strong payrolls print with some caution rather than fully repricing Fed expectations.
-4. **Credit spreads and ETF flow data**, neither of which had same-day figures available at writing time; FRED's daily OAS series continues to lag same-day publication by roughly one business day (Thursday's confirmed levels: IG 0.81%, HY 2.66%, both historically tight) and will need to be checked in the follow-up pass once posted.
+Yields rose across the curve on the stronger jobs data, with the short end hitting fresh highs: the **2-year yield rose to 4.374% (+4bp), a new 52-week high**; the **5-year yield rose to 4.545% (+3.6bp), also a new 52-week high**; the **10-year yield rose to 4.78% (+1.8bp)**; and the **30-year yield stood at roughly 5.25%** (per FRED's most recent posted reading, dated Sept 3 — FRED's daily series lags same-day publication by about one business day). The relatively modest moves at the long end, despite the size of the payrolls beat, suggest markets are treating one strong report with some caution rather than fully repricing the Fed's path.
 
-## Bottom line so far
+## Credit spreads
 
-A genuinely unresolved session at writing time: a much-stronger-than-expected August jobs report (162,000 vs. ~55,000 expected) directly complicated the dovish Fed narrative that drove Thursday's best-session-in-a-month rally, pushing September rate-hike odds back up toward 59% and lifting Treasury yields modestly across the curve. Equities have traded mixed-to-lower in the hours since the report, though the moves have been modest relative to the size of the data surprise — a sign that markets remain genuinely split on how much weight to give one payrolls report against Governor Waller's continued dovish messaging. **This file will need a full rewrite once Friday's session actually closes** — see the follow-up note in `README.md`.
+FRED's OAS series continued to lag same-day publication; the most recently posted readings (dated September 3) show the **ICE BofA US High Yield OAS at 2.65%** and the **ICE BofA US Investment-Grade (Corporate Index) OAS at 0.81%** — both still historically tight and essentially unchanged from Thursday, consistent with credit markets showing little concern over the jobs-report volatility that moved equities and rates.
 
-*This analysis is for informational purposes only and is not financial advice. This file reflects only pre-market and early-session conditions as of writing time (Friday's US session was still in progress) and is explicitly NOT a closing report — see the warning banner above. Do your own research or consult a licensed financial advisor before making investment decisions.*
+## US equity ETFs
+
+| Fund | Sept 4 close | Sept 4 move | Note |
+|---|---|---|---|
+| SPY (SPDR S&P 500) | $770.19 | **−0.39%** | Tracked the S&P 500 cash index's decline closely; volume ~34.1M shares |
+| VOO (Vanguard S&P 500) | $708.01 | **−0.38%** | In line with SPY and the S&P 500 |
+| QQQ (Invesco Nasdaq-100) | $718.96 | **+0.18%** | One of the few funds to close higher, reflecting tech's relative outperformance among sectors |
+| QQQM (Invesco Nasdaq-100, mini) | $296.07 | **+0.19%** | Tracked QQQ; volume ~2.2M shares |
+
+## Oil, gold, bitcoin
+
+**Brent crude eased to around $96.90/barrel (−2.49%)** and **WTI to around $89.24 (−2.26%)**, both retreating for a second straight session from the week's Iran-driven spike toward $99, as the immediate escalation risk that dominated earlier in the week did not develop further. **Spot gold pulled back to around $4,468.60 (−1.57%)** from Thursday's $4,477.66 close, a partial reversal of Thursday's yields-relief rally, consistent with Friday's rise in Treasury yields. **Bitcoin held roughly steady near $81,200–81,300**, essentially flat on the day and on track for a **+1.3% weekly gain**, with crypto markets reportedly seeing their largest ETF inflow in nine months following Thursday's dovish Fed commentary — a tailwind that persisted into Friday even as the jobs data complicated the broader rate-cut narrative elsewhere. Ethereum traded near $2,522, also roughly flat.
+
+## 1-day / 5-day / 20-day comparison
+
+| Index | Level | 1-Day | 5-Day (~1 week) | 20-Day (~1 month) |
+|---|---|---|---|---|
+| Dow Jones | 53,414.25 | **−0.51%** | −0.27% | −1.15% |
+| S&P 500 | 7,718.60 | **−0.38%** | +0.09% | −0.50% |
+| Nasdaq Composite | 26,506.99 | **−0.29%** | +0.40% | −0.69% |
+
+5-day baseline: Aug 28 close (Dow 53,559.99, S&P 7,711.76, Nasdaq 26,402.42). 20-day baseline: Aug 7 close (Dow 54,036.93, S&P 7,757.64, Nasdaq 26,690.62). Both sourced from Investing.com's historical-data series. Read together with the daily figures, the week's net picture is a genuine mixed bag: the S&P and Nasdaq are actually slightly positive on the week despite Friday's pullback (Wednesday/Thursday's gains more than offset it), while the Dow's larger Friday decline left it slightly negative for the week. All three remain modestly below their levels of a month ago.
+
+## Bottom line
+
+A stronger-than-expected August jobs report undid much of Thursday's dovish-Fed-driven rally, pulling equities modestly lower, lifting short-end Treasury yields to fresh 52-week highs, and pushing September rate-hike odds back up — but the moves were measured rather than dramatic, and credit spreads barely budged, suggesting markets are still weighing one data point against Fed Governor Waller's continued dovish messaging rather than fully repricing the September FOMC outcome. Lululemon's 17% guidance-cut-driven plunge was the session's most dramatic single-stock move, unrelated to the macro story. Attention now turns to the incoming CPI/PPI prints and further Fed commentary ahead of the September meeting.
+
+*This analysis is for informational purposes only and is not financial advice. Do your own research or consult a licensed financial advisor before making investment decisions.*
 
 ## Reference sources
 
@@ -35,10 +56,22 @@ A genuinely unresolved session at writing time: a much-stronger-than-expected Au
 - [US Yield Swings Abate Before Jobs Data After Volatile Week — Bloomberg](https://www.bloomberg.com/news/articles/2026-09-04/us-yield-swings-abate-before-jobs-data-after-volatile-week)
 - [Current price of oil as of Sept. 4, 2026 — MSNBC TV News (Fortune syndication)](https://msnbctv.news/current-price-of-oil-as-of-sept-4-2026/)
 - [Gold Holds At $4,468 As Traders Await U.S. Jobs Data And Fed Rate Clues — IBTimes Singapore](https://www.ibtimes.sg/gold-holds-4468-traders-await-u-s-jobs-data-fed-rate-clues-93340)
-- [Bitcoin and ethereum prices today, Friday, September 4, 2026: Bitcoin holding above $81,000 following massive ETF inflows — Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html)
+- [Bitcoin and ethereum prices today, Friday, September 4, 2026 — Yahoo Finance](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html)
 - [Market Yield on U.S. Treasury Securities at 2-Year Constant Maturity — FRED](https://fred.stlouisfed.org/series/DGS2)
 - [Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity — FRED](https://fred.stlouisfed.org/series/DGS10)
+- [Market Yield on U.S. Treasury Securities at 30-Year Constant Maturity — FRED](https://fred.stlouisfed.org/series/DGS30)
 - [ICE BofA US High Yield Index Option-Adjusted Spread — FRED](https://fred.stlouisfed.org/series/BAMLH0A0HYM2)
 - [ICE BofA US Corporate Index Option-Adjusted Spread — FRED](https://fred.stlouisfed.org/series/BAMLC0A0CM)
+- [Stock Market Today (Sept. 4, 2026): Yields jump, stocks fall after jobs report surprises to upside — TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026)
+- [Stock Market Today, Sept. 4: Lululemon Plummets 17% After Slashing Guidance — The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/09/04/stock-market-today-sept-4-lululemon-plummets-17-after-slashing-guidance/)
+- [Stock Market Midday, Sept. 4: Stocks Edge Lower on Strong Jobs Report as Lululemon Plummets — The Motley Fool](https://www.fool.com/coverage/stock-market-today/2026/09/04/stock-market-midday-sept-4-stocks-edge-lower-on-strong-jobs-report-as-lululemon-plummets/)
+- [Dow Jones Industrial Average Historical Data — Investing.com](https://www.investing.com/indices/us-30-historical-data)
+- [S&P 500 Historical Data — Investing.com](https://www.investing.com/indices/us-spx-500-historical-data)
+- [Nasdaq Composite Historical Data — Investing.com](https://www.investing.com/indices/nasdaq-composite-historical-data)
+- [Philadelphia Semiconductor Index Historical Data — Investing.com](https://www.investing.com/indices/phlx-semiconductor-historical-data)
+- [SPY Historical Stock Price Data — StockAnalysis.com](https://stockanalysis.com/etf/spy/history/)
+- [VOO Historical Stock Price Data — StockAnalysis.com](https://stockanalysis.com/etf/voo/history/)
+- [QQQ Historical Stock Price Data — StockAnalysis.com](https://stockanalysis.com/etf/qqq/history/)
+- [QQQM Historical Stock Price Data — StockAnalysis.com](https://stockanalysis.com/etf/qqqm/history/)
 ---
 © 2026 Henrry Andrian‍​‌​​‌​​​​‌‌​​‌​‌​‌‌​‌‌‌​​‌‌‌​​‌​​‌‌‌​​‌​​‌‌‌‌​​‌​‌​​​​​‌​‌‌​‌‌‌​​‌‌​​‌​​​‌‌‌​​‌​​‌‌​‌​​‌​‌‌​​​​‌​‌‌​‌‌‌​​​‌‌​​‌​​​‌‌​​​​​​‌‌​​‌​​​‌‌​‌‌​‍. All rights reserved.

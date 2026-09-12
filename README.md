@@ -28,6 +28,10 @@ Oil, gold, and bitcoin are covered directly in each day's `README.md` rather tha
 - **Stock ideas come with risk notes:** every "stocks to watch" table pairs the bullish rationale with what to watch for / what could go wrong — none of it is a buy recommendation.
 - **Every file ends with a disclaimer:** this is informational analysis, not financial advice; figures are current as of the time of writing and can change intraday.
 
+## Forward-looking outlook folders
+
+Occasionally a folder is built *before* that day's markets have closed, as a predictive outlook rather than a recap (e.g. `260907/`, built ahead of Monday September 7, 2026's open). These contain a single `README.md` — not the full per-market file set — clearly marked at the top as speculative and not a market result, and a normal recap folder for that date should still get built once the sessions actually close.
+
 ## How this gets built
 
 Each day's files are researched fresh from current news and market data (index levels, sector moves, money flow, currencies, bonds, ETFs) and written in this structure. The structure itself has grown incrementally — it started as a single Taiwan file and expanded over time to the full set above. If you want a market or asset class added, removed, or restructured (e.g. splitting Southeast Asia into individual files, adding China A-shares or India), just ask — the format will adapt and the convention carries forward to future days automatically.
