@@ -2,11 +2,11 @@
 
 ## Overview
 
-Southeast Asia had a genuinely mixed session, in contrast to Northeast Asia's broadly negative reaction to the weekend AI-safety story: Thailand fell on direct read-through from the global tech selloff, Indonesia was whipsawed by a surprise cabinet reshuffle before paring most of its losses, and Malaysia bucked the regional trend entirely with a genuine rebound. Singapore's same-day closing data remained unavailable at writing time — a recurring gap this project has documented repeatedly for the Singapore market specifically.
+Southeast Asia had a genuinely mixed session, in contrast to Northeast Asia's broadly negative reaction to the weekend AI-safety story: Thailand fell on direct read-through from the global tech selloff, Indonesia was whipsawed by a surprise cabinet reshuffle before paring most of its losses, Malaysia bucked the regional trend entirely with a genuine rebound, and Singapore also closed higher (+0.40%), insulated by its bank-heavy index composition.
 
 ## Singapore — STI
 
-Same-day closing-level news coverage for the Straits Times Index could not be confirmed from sources checked at writing time — the same recurring same-day-Singapore-coverage gap this project has flagged on multiple prior dates (most recently completing 260911). The most recent confirmed close remains **Sept 11's 5,695.93 (+0.11%)**, itself well off the Sept 4 record high of 5,801.96. Given the weekend AI-safety story's broad negative effect on tech-adjacent names regionally, and Singapore's bank-heavy (rather than tech-heavy) index composition, the STI plausibly held up better than its more tech-exposed regional peers today — consistent with the defensive-composition pattern this project has noted for Singapore before — but this is an inference, not a confirmed figure.
+Confirmed with next-day coverage: **the Straits Times Index closed at 5,718.02, up 22.09 points (+0.40%)**, from Sept 11's confirmed 5,695.93 close — genuinely bucking the regional trend on a day the weekend AI-safety story pressured most tech-adjacent markets. This confirms the inference made at writing time: Singapore's bank-heavy (rather than tech-heavy) index composition left it comparatively insulated from the same-day selloff hitting Korea, Taiwan, and Japan. The index ranged between 5,677.79 and 5,725.56 intraday. Notable single-stock activity: **CapAllianz (594) surged over 100%** after announcing a placement of 1.95 billion shares to raise roughly SG$2.1 million, while **MetaOptics (9MT) fell over 5%** on its own SG$1.1 million capital-raise plan — both small-cap-specific stories rather than index-level drivers.
 
 ## Indonesia — IHSG/JCI
 
@@ -24,7 +24,7 @@ The **SET Index fell 13.45 points (−0.84%) to close at 1,591.07**, on trading 
 
 | Index | Sept 14 Close | 1-Day | 5-Day (~1 week, vs. Sept 7 close) |
 |---|---|---|---|
-| Singapore (STI) | n/a (Sept 11: 5,695.93) | n/a | n/a |
+| Singapore (STI) | 5,718.02 | **+0.40%** | n/a |
 | Indonesia (IHSG/JCI) | 6,534 | −0.10% | **−1.30%** (vs. 6,619.67) |
 | Malaysia (FBM KLCI) | 1,698.01 | **+0.66%** | −0.98% (vs. 1,714.79) |
 | Thailand (SET) | 1,591.07 | −0.84% | **−1.71%** (vs. 1,618.82) |
@@ -37,6 +37,7 @@ Southeast Asia's genuinely mixed session today — Malaysia rallying, Indonesia 
 
 ## Reference sources
 
+- [Yahoo Finance Singapore — Singapore Shares Surge Despite Regional Losses Over AI Comments](https://sg.finance.yahoo.com/news/singapore-shares-surge-despite-regional-093640766.html)
 - [RRI.co.id — IHSG Ditutup Melemah 0,10 Persen, Sempat Anjlok ke 6.371 Hari Ini](https://rri.co.id/keuangan/2729059/ihsg-ditutup-melemah-010-persen-sempat-anjlok-ke-6371-hari-ini)
 - [CNN Indonesia — IHSG Melemah Tipis ke 6.534 Sore Ini, 429 Saham Merah](https://www.cnnindonesia.com/ekonomi/20260914162610-92-1403783/ihsg-melemah-tipis-ke-6534-sore-ini-429-saham-merah)
 - [CNBC Indonesia — Ada Reshuffle Kabinet, IHSG Mantul & Pangkas Koreksi](https://www.cnbcindonesia.com/market/20260914150831-17-767748/ada-reshuffle-kabinet-ihsg-mantul-pangkas-koreksi)

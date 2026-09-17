@@ -25,7 +25,7 @@ All three categories except investment trusts turned net sellers, with foreign i
 
 ## Taiwan ETFs (0050 / 00878 / 00919)
 
-Same-day closing data for 0050 (元大台灣50), 00878 (國泰永續高股息), and 00919 (群益台灣精選高息) could not be confirmed from same-day live-quote sources checked at writing time — a recurring limitation this project has flagged before (Yahoo TW, MoneyDJ, and Cnyes live-quote pages routinely lag by a full trading day). Given the broad market decline led by heavyweight tech, 0050 (TSMC/MediaTek-heavy) likely tracked the index lower, while high-dividend ETFs like 00878/00919 (financials-tilted) plausibly outperformed given financials' relative strength — but this is an inference from sector moves, not a confirmed closing NAV/price. Will revisit with next-day "昨收" data per this project's established workaround.
+Confirmed with next-day "昨收" data (MoneyDJ, Sept 15): **0050 (元大台灣50) closed at NT$106.90, down NT$0.80 (−0.74%)** from Friday's NT$107.70 — tracking the broader TAIEX decline as expected, given its TSMC/MediaTek-heavy weighting. The high-dividend, financials-tilted ETFs outperformed as inferred at writing time: **00878 (國泰永續高股息) rose 0.68% to NT$34.23** and **00919 (群益台灣精選高息) rose 1.26% to NT$32.89**, both closing higher even as the broader index fell — confirming financials' relative strength cushioned these two funds specifically, not just the sector in aggregate.
 
 ## Stocks/sectors to watch
 
